@@ -240,19 +240,23 @@ DIVIDE(
 
 ### Executive Dashboard
 
-![Executive Dashboard](screenshots/executive-dashboard.png)
+<img width="1548" height="771" alt="Executive -Dashboard" src="https://github.com/user-attachments/assets/e7be4e1b-8f7b-4bc7-bcc2-80b150a531ad" />
+
 
 ### Product Analysis Dashboard
 
-![Product Analysis Dashboard](screenshots/product-analysis-dashboard.png)
+![Product Analysis Dashboard]<img width="1424" height="783" alt="Product-Analysis-Dashboard" src="https://github.com/user-attachments/assets/65407a53-aa06-42f8-a092-a8237e744f4d" />
+
 
 ### Customer Analysis Dashboard
 
-![Customer Analysis Dashboard](screenshots/customer-analysis-dashboard.png)
+![Customer Analysis Dashboard]<img width="1436" height="802" alt="Customer-Analysis-dashboard" src="https://github.com/user-attachments/assets/58afb2be-9512-4258-8e0a-12a3f5e05677" />
+
 
 ### Data Model
 
-![Data Model](screenshots/data-model.png)
+![Data Model]<img width="1768" height="809" alt="Data-Model" src="https://github.com/user-attachments/assets/4490c78b-43de-420a-ba00-a278ef82f466" />
+
 
 ---
 
@@ -286,6 +290,3 @@ The dashboard helps transform raw business data into meaningful insights for ope
 
 Data Analyst | Power BI Developer
 
-LinkedIn: *(Add Your LinkedIn Profile URL)*
-
-Email: monikagolaofficial@gmail.com
